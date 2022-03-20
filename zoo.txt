@@ -1,3 +1,5 @@
 Lion
 Snake
 Giraffe
+Tiger
+Penguin
